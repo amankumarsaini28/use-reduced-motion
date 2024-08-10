@@ -1,0 +1,37 @@
+{
+  "name": "@thejsguy/use-reduced-motion",
+  "version": "1.0.0",
+  "description": "a11y helper library to detect prefers-reduced-motion setting for user",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amankumarsaini28/use-reduced-motion.git"
+  },
+  "keywords": [
+    "react",
+    "react-hook",
+    "prefers-reduces-motion",
+    "a11y",
+    "media-query"
+  ],
+  "author": "Aman Kumar Saini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amankumarsaini28/use-reduced-motion/issues"
+  },
+  "homepage": "https://github.com/amankumarsaini28/use-reduced-motion#readme",
+  "devDependencies": {
+    "react": "^18.3.1",
+    "typescript": "^5.5.4"
+  },
+  "peerDependencies": {
+    "react": "^18.3.1"
+  },
+  "dependencies": {
+    "@types/react": "^18.3.3"
+  }
+}
